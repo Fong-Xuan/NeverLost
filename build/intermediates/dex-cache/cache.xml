@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-7.0.0_92046a763c862cd8a2e1120996ad8e6fc278b33a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-7.0.0_f42f36bb9a7cae48b96fc18778a5d30213784608.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_ea84f237dba62ccbb7281a979969321402e0e441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-7.0.0_c59bbc758f2deff63ea196f0a6eae15a394b9d63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_b85e33839bdfc116b58578647602e482adfb543e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5bd1a8c21ca6d755ae0e0b8f232c9dfa83165a32">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_7a83dafb4626c267c34f3427310abcaf9d4ce82f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-7.0.0_bd3ee7a7986726b624e594ccdfdef40520203673.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-7.0.0_952201e219ee70a63ea8e6a98fbbca6bbc4d3dbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_05a23d740b506dc26bf60085f56d60f46da70417.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-7.0.0_b7dc3d77a50857f234e7ad3157169c65bad90edd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-7.0.0_8991eff4e6a015407faaa8190d40bb751ddadfab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appstate-7.0.0_c4785b220a91423597a7e0376d86bf97b5e3ec27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_97aabe953b58f453788260e0ef6ff436a2a4df1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-7.0.0_1e4794c6eea503871e7545382bf406ae565d71f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-7.0.0_1e4794c6eea503871e7545382bf406ae565d71f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-7.0.0_54d096e2d8960ab10e229eb0832f16812d780a30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-7.0.0_baa6e6c674c21cab8acb59b2020ad69f8098b5b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_52ad8d3534aa980d62b0e93067b4be6fdcf871df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-7.0.0_42b233ba52ebce99cb0336e33e87f5bf06dd1b7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-7.0.0_c2bea178a593b844d8f5c5593293dbfd1779f3d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-7.0.0_952201e219ee70a63ea8e6a98fbbca6bbc4d3dbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_b85e33839bdfc116b58578647602e482adfb543e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-7.0.0_4ec5bc626cd0caabdf1ec2fc4df35ac2bfa37ad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-7.0.0_aec42b5a6d4d0d3072bccb1780b1a09f7203856c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_ce8ffb1a42df76814c3aba791dd3c503e0958678.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-7.0.0_103967e07f3feee88be0402bd6c50d4641c1718a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-7.0.0_9c435d3be1b2af0266e911f83244c276cac563b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-7.0.0_4bf1730b0db9fdc77437e6b9030f319889e1825e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-7.0.0_c59bbc758f2deff63ea196f0a6eae15a394b9d63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_97aabe953b58f453788260e0ef6ff436a2a4df1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_ea84f237dba62ccbb7281a979969321402e0e441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-7.0.0_bd3ee7a7986726b624e594ccdfdef40520203673.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-7.0.0_b7dc3d77a50857f234e7ad3157169c65bad90edd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-7.0.0_92046a763c862cd8a2e1120996ad8e6fc278b33a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-7.0.0_9c435d3be1b2af0266e911f83244c276cac563b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-7.0.0_f42f36bb9a7cae48b96fc18778a5d30213784608.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-7.0.0_103967e07f3feee88be0402bd6c50d4641c1718a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-7.0.0_8991eff4e6a015407faaa8190d40bb751ddadfab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-7.0.0_22f5786fec6c771e1baab1eb0e296fc22e02f418.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cf554f719a25ead6cc2beb40ac88b536035c82f0">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/instant-run_c3dac70da9b859d127b53d31384da698af14a359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_52ad8d3534aa980d62b0e93067b4be6fdcf871df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-7.0.0_42b233ba52ebce99cb0336e33e87f5bf06dd1b7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appstate-7.0.0_c4785b220a91423597a7e0376d86bf97b5e3ec27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-7.0.0_baa6e6c674c21cab8acb59b2020ad69f8098b5b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-7.0.0_54d096e2d8960ab10e229eb0832f16812d780a30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_05a23d740b506dc26bf60085f56d60f46da70417.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-7.0.0_4ec5bc626cd0caabdf1ec2fc4df35ac2bfa37ad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-7.0.0_22f5786fec6c771e1baab1eb0e296fc22e02f418.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_ce8ffb1a42df76814c3aba791dd3c503e0958678.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-7.0.0_c2bea178a593b844d8f5c5593293dbfd1779f3d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-7.0.0_aec42b5a6d4d0d3072bccb1780b1a09f7203856c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/tzuanlin/Desktop/NeverLost4.0/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-7.0.0_4bf1730b0db9fdc77437e6b9030f319889e1825e.jar" />
+    </item>
+
+</items>

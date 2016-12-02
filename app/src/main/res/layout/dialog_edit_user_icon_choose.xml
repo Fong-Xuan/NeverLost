@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RadioGroup
+        android:id="@+id/iconGroup">
+
+            <RadioButton
+                android:id="@+id/userIcon_choose_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@mipmap/icon1"
+                android:contentDescription="baby" />
+
+            <RadioButton
+                android:id="@+id/userIcon_choose_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@mipmap/icon2"
+                android:contentDescription="woman" />
+            <RadioButton
+                android:id="@+id/userIcon_choose_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@mipmap/icon3"
+                android:contentDescription="man" />
+
+
+            <RadioButton
+                android:id="@+id/userIcon_choose_4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@mipmap/icon4"
+                android:contentDescription="grandpa" />
+            <RadioButton
+                android:id="@+id/userIcon_choose_5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@mipmap/icon5"
+                android:contentDescription="gandma" />
+            <RadioButton
+                android:id="@+id/userIcon_choose_6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@mipmap/icon6"
+                android:contentDescription="spiderman" />
+
+    </RadioGroup>
+
+</TableLayout>

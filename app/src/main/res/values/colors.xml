@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#3313ab</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorMain">#3f51b5</color>
+    <color name="layout_border_color">#FF111111</color>
+    <color name="green">#FF00FF00</color>
+
+
+    <!-- F:10/17 define some color code-->
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="holo_blue_light">#33b5e5</color>
+    <color name="holo_blue_dark">#0099cc</color>
+    <color name="holo_blue_bright">#00ddff</color>
+
+</resources>
